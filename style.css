@@ -1,0 +1,149 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.hero-image{
+	height: 100vh;
+	background-image: url(bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.mynav{
+	text-decoration: none;
+	padding: 20px;
+	font-size: 20px;
+	padding: 15px 100px; 
+}
+.mynav li{
+	padding: 12px 15px;
+}
+.mynav a{
+	color: white;
+
+}
+.mynav a:hover{
+	color: black;
+	background-color: #34e7e4;
+	font-weight: 500;
+}
+.logo{
+	padding:15px 50px;
+}
+.section2{
+	height: 80vh;
+	position: relative;
+	top: 50%;
+	height: auto;
+	margin:auto;
+	text-align: center;
+	width: 100%;
+
+}
+.section2 h3{
+	font-size: 30px;
+	color: white;
+}
+.section2 h1{
+	font-size: 80px;
+	color: #34e7e4;
+}
+.download-button{
+	width: 300px;
+	height: 40px;
+	background-color: transparent;
+	border: 2px solid #34e7e4;
+	color: #34e7e4;
+	text-decoration: none;
+	padding: 12px 25px;
+	transition: 0.8s ease;
+	font-weight: bold;
+}
+.download-button:hover{
+	background-color: #34e7e4;
+	color: black;
+	box-shadow: 5px 5px 10px #34e7e4;
+}
+.sec2-bg{
+	background-color: black;
+	padding: 75px 0
+}
+.sec2-bg h1{
+	color:#34e7e4;
+	font-size: 50px;
+}
+.sec2-bg h3{
+	color:white;
+	font-size: 22px;
+}
+.sec2-bg p{
+	color:white;
+	font-size: 16px;
+	text-align: justify;
+}
+.aboutimg{
+	width: 80%;
+	filter: grayscale(100%);
+}
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white;
+ /* White text color */
+}
+
+.html { background-color: #34e7e4;} /* Green */
+.skill{
+	padding: 50px 0;
+}
+.cta{
+	padding: 70px 0px;
+	background-color: #191919;
+	height: 250px;
+
+}
+.cta h3{
+	color:white;
+	text-align:center;
+	font-size: 32px;
+}
+.cta p{
+	text-align: center;
+	color: white;
+	font-size: 18px;
+}
+.socialmedia{
+	font-size: 50px;
+	transition: 0.8s ease;
+}
+.socialmedia:hover{
+	
+	background-color: transparent;
+	color: #34e7e4;
+
+}
+.copyright{
+	height: auto;
+	color: #34e7e4;
+	background-color: black;
+	
+}
+.copyright p{
+	font-size: 14px;
+	padding:5px 0;
+	text-align: center;
+}
+.socialsection{
+	text-align: center;
+	background-color: #191919;
+}
+.socialsection h3{
+	color:#34e7e4; 
+}
+.socialsection p{
+	color: white;
+	font-size: 18px; 
+}
+.slink{
+	color: gray;
+	text-decoration: none;
